@@ -27,12 +27,12 @@
 <div align="center">
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=var-ad&layout=compact&theme=radical&hide_border=true) 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=var-ad)
 
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=var-ad&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=var-ad&theme=github-dark-dimmed&custom_title=var-ad%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
