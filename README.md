@@ -32,7 +32,7 @@
 
 <div align="center">
 
-![Streak Stats](https://streak-stats.demolab.com?user=var-ad&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=var-ad&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
