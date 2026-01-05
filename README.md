@@ -1,7 +1,5 @@
 # 👋 **Hello, I'm Varad Chaskar!**
 
----
-
 ## 🚀 About Me  
 
 - Currently in final year of Bachelor of Engineering in Information Technology.
